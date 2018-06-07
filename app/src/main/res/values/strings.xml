@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facts&amp;Fun</string>
+    <string name="category">Category</string>
+    <string name="quest">Quest</string>
+    <string name="random">Random</string>
+    <string name="submit">Submit</string>
+</resources>
